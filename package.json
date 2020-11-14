@@ -18,3 +18,5 @@
   },
   "homepage": "https://github.com/anand4nc/watersgitactions#readme"
 }
+"jest": {
+    "testResultsProcessor": "jest-sonar-reporter"
