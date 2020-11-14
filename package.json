@@ -1,0 +1,20 @@
+{
+  "name": "watersgitactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anand4nc/watersgitactions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anand4nc/watersgitactions/issues"
+  },
+  "homepage": "https://github.com/anand4nc/watersgitactions#readme"
+}
